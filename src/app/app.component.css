@@ -1,0 +1,37 @@
+
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600);
+@import url(http://fonts.googleapis.com/css?family=Varela+Round);
+
+.image1 {
+    width:35%;
+}
+h1{
+    text-align: center;
+    color: #006df0; font: 26px "Source Sans Pro", sans-serif; font-weight: 400; 
+}
+h2{
+    text-align: center;
+    color: #006df0; font: 26px "Source Sans Pro", sans-serif; font-weight: 400; 
+
+}
+.icon{
+    position: absolute;
+    top: 4px;
+    right: 1px;
+    background-position:right top;
+}
+.p {
+    font-family:"Source Sans Pro", sans-serif;
+}
+.container{
+  position: relative;
+}
+.hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.8em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+  } 

@@ -1,0 +1,55 @@
+.body{
+    width: 4000px;
+    height:340px;
+    text-align: center;
+    box-align: center;
+    align-content: center;
+}
+.btn btn-outline-secondary mr-2{
+    width: 50%;
+    height:60%;
+}
+.view{
+    border-style: groove;
+    margin:20px;
+    padding:10px;
+    position: relative;
+}
+.title{
+    color: #1a1a1a;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.overlay{
+    position: absolute;
+    opacity: 1;
+    transition: .5s ease;
+    background-color: white;
+}
+.mask{
+    color: brown;
+    opacity: 1;
+}
+.divstyle {
+    padding: 5px;
+    border:1px solid black;
+    width:70%;
+    font-weight:bold;
+    color:red;
+    }
+    
+.mousestyle {
+    background-color:grey;
+    opacity: 0;
+    border:1px solid black;
+}
+.whitetext{
+    background-color:red;
+    opacity: 1;
+    border:1px solid black;
+}
+.h1{
+    text-align: center;
+    color: #006df0; font: 26px "Source Sans Pro", sans-serif; font-weight: 400; 
+}
+  

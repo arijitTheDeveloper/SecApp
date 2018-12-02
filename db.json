@@ -1,0 +1,24 @@
+{
+  
+    "Tools":[
+        {
+            "name": "Tower control room",
+            "description":"Actionable dashboards for transporataion Better Control of the operations, therby leading to cost savings"
+        },
+        {
+          "name": "Monitoring system",
+          "description":"Actionable dashboards for transporataion Better Control of the operations, therby leading to cost savings"
+        },
+        {
+          "name": "Analytics",
+          "description":"Actionable dashboards for transporataion Better Control of the operations, therby leading to cost savings"
+        },
+        {
+          "name": "Settings",
+           "description" : "We are using an application for the server settings"
+        }
+
+    ]
+
+
+}
